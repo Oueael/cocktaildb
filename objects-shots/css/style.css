@@ -1,0 +1,27 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+img{
+  display: block;
+  margin: 0 auto;
+  height: 200px;
+}
+/* Add some styling for the navigation buttons */
+#prevDrink, #nextDrink {
+  margin: 10px;
+}
+
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
